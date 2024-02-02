@@ -1,0 +1,37 @@
+.container {
+    display: inline-block;
+}
+
+.button {
+    width: 50px;
+    height: 30px;
+    border-width: 1px;
+    border-color: black;
+    border-radius: 2px;
+    background-color: #79b5d1;
+    margin-bottom: 20px;
+    
+}
+
+.text {
+    user-select: none;
+    overflow: hidden;
+    display:flex;
+    max-height: 0px;
+    width: 300px;
+    font-size: 14px;
+    font-family: 'Times New Roman', Times, serif;
+    border: black 0px solid;
+    resize: none;
+    text-wrap:balance;
+    transition: all 0.5s linear;
+
+}
+
+.open {
+    height:auto;
+    max-height: 50px;
+    border-width: 0.5px;
+    transition: all 0.5s linear;
+}
+
