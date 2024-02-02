@@ -1,4 +1,4 @@
-name: MyTrello
+name: JSAnimHometask
 
 on: [push, pull_request]
 
