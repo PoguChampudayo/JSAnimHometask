@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "6. Работа с файлами, DnD"
+# Домашнее задание к занятию "9. Анимации и CSS"
 
 [Ссылка на GitHub Pages](https://poguchampudayo.github.io/JSAnimHometask/)
 
